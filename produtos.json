@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "Calça Jeans",
+        "tamanho": 42,
+        "preco": 139.99,
+        "imagem": "img/images2.jpeg"
+    },
+    {
+        "nome": "Camiseta Básica",
+        "tamanho": "M",
+        "preco": 199.99,
+        "imagem": "img/images.jpeg"  
+    },
+    {
+        "nome": "Pou Coitadolandia",
+        "tamanho": "O suficiente",
+        "preco": 299.99,
+        "imagem": "img/51eUVahaiTL._AC_.jpg"
+    },
+    {
+        "nome": "Miojo Turma da Monica",
+        "tamanho": "Sabor Tomate",
+        "preco": 5.99,
+        "imagem": "img/sg-11134201-7rcej-lrl5m9qd5rq03e.jpeg"
+    },
+    {
+        "nome": "Sapato Impressora 3D 100% Reciclável",
+        "tamanho": 47,
+        "preco": 450.99,
+        "imagem": "img/kjg.jpg"
+    },
+    {
+        "nome": "Galo Forte",
+        "tamanho": "Adulto",
+        "preco": 500.00,
+        "imagem": "img/rooster-1867562_640.jpg"
+    },
+    {
+        "nome": "100 Minhocas Para Pesca Gigante-africana Eudrilus Eugeniae",
+        "tamanho": "adulto",
+        "preco": 349.99,
+        "imagem": "img/D_NQ_NP_669935-MLB69611824783_052023-O.webp"
+    },
+]
